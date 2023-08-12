@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\bin\Debug\net6.0\ARRAY_SEARCHER.exe
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\bin\Debug\net6.0\ARRAY_SEARCHER.deps.json
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\bin\Debug\net6.0\ARRAY_SEARCHER.runtimeconfig.json
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\bin\Debug\net6.0\ARRAY_SEARCHER.dll
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\bin\Debug\net6.0\ARRAY_SEARCHER.pdb
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\ARRAY_SEARCHER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\ARRAY_SEARCHER.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\ARRAY_SEARCHER.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\ARRAY_SEARCHER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\ARRAY_SEARCHER.dll
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\refint\ARRAY_SEARCHER.dll
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\ARRAY_SEARCHER.pdb
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\ARRAY_SEARCHER.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ARRAY_SEARCHER\ARRAY_SEARCHER\obj\Debug\net6.0\ref\ARRAY_SEARCHER.dll
