@@ -1,4 +1,4 @@
-# Array_Index_By_Index_Picker
+# Array Index By Index Picker
 Motivation
 The "Array Analyzer" program is designed to provide a simple yet effective way to analyzean array of integers. It offers functionalities to find pairs of numbers that sum up to a specific value, as well as to determine the maximum and minimum values within the array. This program is intended to help users gain a better understanding of the relationships between elements in an array and extract key insights from their data.
 
